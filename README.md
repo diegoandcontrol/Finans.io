@@ -1,3 +1,3 @@
 Projeto Finas.io
 
-Praticar com Bootstrap4 :|
+Praticando/Estudando Bootstrap4 :|
